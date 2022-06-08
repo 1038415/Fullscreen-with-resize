@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/test.css"],"sourcesContent":["body {\r\n    margin: 0px;\r\n    padding: 0px;\r\n    width: 100vw;\r\n    height: 100vh;\r\n    overflow: hidden;\r\n}"],"names":[],"version":3,"file":"test.0d3ce42a.css.map","sourceRoot":"/__parcel_source_root/"}
